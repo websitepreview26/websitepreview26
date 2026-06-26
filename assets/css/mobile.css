@@ -176,6 +176,17 @@ body * {
     padding-right: 16px;
   }
 
+  .steps__row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .steps__col {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .portfolio__content-col,
   .portfolio__review-content {
     padding: 1.1rem;
